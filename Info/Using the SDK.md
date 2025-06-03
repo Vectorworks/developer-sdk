@@ -53,4 +53,4 @@ Materials are a new resource in Vectorworks 2021.
 
 ## Textures
 
-- [Using Shader Records](Info/Using%20Shader%20Records.md)
+- [Using Shader Records](Using%20Shader%20Records.md)
