@@ -49,3 +49,8 @@
 Materials are a new resource in Vectorworks 2021.
 
 - [Working with Materials](https://github.com/Vectorworks/developer-scripting/blob/6dfe7687c559b0b43d06c240039a8d36bcb1a708/Common/Tasks/Working%20with%20Materials.md#L4)
+
+
+## Textures
+
+- [Using Shader Records](Info/Using%20Shader%20Records.md)
