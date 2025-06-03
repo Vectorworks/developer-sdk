@@ -1,6 +1,9 @@
 ## Common Tasks
 
 - [Generate UUID for Extensions](Generate%20UUID%20for%20Extensions.md)
+
+- [Undo Best Practices](Undo%20Best%20Practices.md)
+
 - [Working with Wall Breaks](Working%20with%20Wall%20Breaks.md)
 - [Working with Wall Breaks - Symbol](Working%20with%20Wall%20Breaks%20-%20Symbol.md)
 - [Enumerate The Color Palettes](Enumerate%20The%20Color%20Palettes.md)
@@ -48,9 +51,13 @@
 
 Materials are a new resource in Vectorworks 2021.
 
-- [Working with Materials](https://github.com/Vectorworks/developer-scripting/blob/6dfe7687c559b0b43d06c240039a8d36bcb1a708/Common/Tasks/Working%20with%20Materials.md#L4)
+- [Working with Materials](https://github.com/Vectorworks/developer-scripting/blob/main/Common/Tasks/Working%20with%20Materials.md)
 
 
 ## Textures
 
 - [Using Shader Records](Using%20Shader%20Records.md)
+
+## Spotlight
+
+- [Equipment item attaching sample](https://github.com/Vectorworks/developer-scripting/blob/main/Common/Tasks/Equipment%20item%20attaching%20sample.md)
