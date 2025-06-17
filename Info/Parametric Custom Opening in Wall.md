@@ -6,11 +6,11 @@ By [Vladislav Stanev](mailto:vstanev@nemetschek.net)
 
 When you have a parametric object placed inside a wall, the wall creates an opening using the convex hull polygon in 2D and the convex hull cube in 3D, created by the 2D and 3D geometry of the parametric object.
 
-![Normal Wall Opening](images/normalWallOpening.jpg)
+![Normal Wall Opening](images/NormalWallOpening.jpg)
 
 From VectorWorks 2009, parametric objects are capable of customizing the opening that the parametric object will cut into the wall when placed inside.
 
-![Custom Wall Opening](images/customWallOpening.jpg)
+![Custom Wall Opening](images/CustomWallOpening.jpg)
 
 The opening is customizable only in 3D.
 
@@ -53,6 +53,6 @@ case kParametricRecalculate : {
 
 The way it works is that the plug-in provides 3D geometry that is used to cut through the wall.
 
-![Details Wall Opening](images/detailsWallOpening.jpg)
+![Details Wall Opening](images/DetailsWallOpening.jpg)
 
 This way, the plug-in parametric object can control the opening, allowing for recessed and sloped openings. Additionally, if you specify a group containing several 3D bodies, you can create separate independent openings in the wall for this parametric object.

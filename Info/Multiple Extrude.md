@@ -4,7 +4,7 @@ By [François de Felix](mailto:defelix@cesyam.fr)
 
 This article will explain how to create a multiple extrude using the SDK.
 
-![Multiple Extrude](images/multiple_extrude.jpg)
+![Multiple Extrude](images/Multiple_extrude.jpg)
 
 To create an empty multiple extrude object, use:
 ```cpp

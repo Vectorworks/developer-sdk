@@ -36,6 +36,11 @@
 - [Enumerating folder contents](Enumerating%20folder%20contents.md)
 - [Working with nlohmann JSON library included the SDK](https://json.nlohmann.me/)
 
+## Dialogs
+
+- [Dialog Builder](Dialog%20Builder.md)
+- [Dialog Builder Samples](Dialog%20Builder%20Samples.md)
+
 ## Working with Dialogs (Layout Manager)
 
 - [Working with Dynamic Data Exchange (DDX)](Working%20with%20Dynamic%20Data%20Exchange%20(DDX).md)

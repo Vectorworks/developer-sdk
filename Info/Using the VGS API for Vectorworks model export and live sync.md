@@ -58,12 +58,12 @@ Most of the VGS events are self-explanatory, but there are a couple of notes to 
 - `materialIDs` within `struct ObjectModifyMaterialArgs` represents a vector of materials with multiple decals. `materialIDs[0]` represents the first material, whereas `materialIDs[0][0]` represents the base material of the first material. If decals are present, `materialIDs[0]` will have a size larger than 1.
 - If proxy objects are set, `ObjectAddArgs` should have a `proxyID` that is non-zero. If proxy materials are set, `MaterialAddArgs` should have a `proxyID` that is non-zero. This is the system used for associating an object located in the Vectorworks object tree to a tessellation within VGS.
 
-![VGS Object Association](images/vgsObjectAssociation.png)
+![VGS Object Association](images/VgsObjectAssociation.png)
 
 When you build/run Vectorworks from this plugin on either Mac or Windows, you will now see a “VGS Plugin” menu command within the list of menus when running `Tools --> Workspaces --> Edit Workspace`. Drag this menu command into your workspace and execute the command for a loaded Vectorworks file.
 
 You should see output like this which shows all events in the queue.  
-![General Event Queue](images/generalEventQueue.png)
+![General Event Queue](images/GeneralEventQueue.png)
 
 For updated events, you can see additional events come up in the output window. For example, if you move the camera, the events should appear as such:  
-![Camera Event Queue](images/cameraEventQueue.png)
+![Camera Event Queue](images/CameraEventQueue.png)

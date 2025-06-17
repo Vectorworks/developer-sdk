@@ -23,6 +23,22 @@ The Vectorworks SDK provides [some specific types](Info/Types.md). A developer s
 - [Using the SDK](Info/Using%20the%20SDK.md)
 - [Installing Plug-ins](https://github.com/Vectorworks/developer-scripting/blob/main/Common/Partner%20Install/README.md)
 
+## Tasks
+
+- [Common Tasks](Info/Using%20the%20SDK.md#common-tasks)
+- [Parametric](Info/Using%20the%20SDK.md#parametric)
+- [Tool](Info/Using%20the%20SDK.md#tool)
+
+- [Working with files](Info/Using%20the%20SDK.md#working-with-files)
+
+- [Dialogs](Info/Using%20the%20SDK.md#dialogs)
+
+- [Working with Dialogs (Layout Manager)](Info/Using%20the%20SDK.md#working-with-dialogs-layout-manager)
+
+- [Materials](Info/Using%20the%20SDK.md#materials)
+- [Textures](Info/Using%20the%20SDK.md#textures)
+- [Spotlight](Info/Using%20the%20SDK.md#spotlight)
+
 ## Plug-ins Modules
 
 Vectorworks plug-in is a dynamic library on Windows and a specific type of bundle on Mac.
