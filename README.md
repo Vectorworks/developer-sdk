@@ -61,6 +61,7 @@ More information can be found here: [Plugin Credentials](https://github.com/Vect
 
 ## Version Information
 
+- [Vectorworks 2027](Versions/Vectorworks%202027%20Development.md)
 - [Vectorworks 2026](Versions/Vectorworks%202026%20Development.md)
 - [Vectorworks 2025](Versions/Vectorworks%202025%20Development.md)
 - [Vectorworks 2024](Versions/Vectorworks%202024%20Development.md)
